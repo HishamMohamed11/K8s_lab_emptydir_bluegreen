@@ -1,1 +1,0 @@
-# K8s_lab_emptydir_bluegreen
